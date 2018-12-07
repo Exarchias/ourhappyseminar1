@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+Robert2: writting the first line
+=======
 Robert: writting the first line
 Nemanja: Writing the first line
+>>>>>>> 716175ba93211215939a8019d6e41fba40f7d36a
