@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Robert2: writting the first line tralala
 
+=======
+Robert: check this cool conflict
+>>>>>>> 1be0927952958f71eb7f5eb0c2be524f5a68f476
